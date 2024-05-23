@@ -2,13 +2,6 @@
 
 Este proyecto de práctica en Laravel es una aplicación web básica que se construyó con el propósito de comprender los fundamentos de Laravel y desarrollar habilidades en el desarrollo web utilizando este popular framework de PHP.
 
-## Descripción General
-
-La aplicación consta de un sistema de gestión de estudiantes y maestros, donde los usuarios pueden realizar las siguientes acciones:
-
-Estudiantes: Ver la lista de estudiantes, agregar nuevos estudiantes, editar la información de los estudiantes existentes y eliminar estudiantes.
-Maestros: Ver la lista de maestros, agregar nuevos maestros, editar la información de los maestros existentes y eliminar maestros.
-
 ## Tecnologías Utilizadas
 
 La aplicación se desarrolló utilizando las siguientes tecnologías y herramientas:
@@ -32,13 +25,9 @@ routes/: Contiene archivos de definición de rutas que dirigen las solicitudes H
 tests/: Contiene archivos de pruebas automatizadas para probar diferentes aspectos de la aplicación.
 vendor/: Contiene las dependencias de Composer, incluyendo las bibliotecas de terceros utilizadas en el proyecto.
 
-## Uso de la Aplicación
-
-Para utilizar la aplicación, simplemente inicie el servidor de desarrollo de Laravel y acceda a la URL correspondiente en su navegador web. Una vez iniciada la aplicación, puede registrarse como usuario, iniciar sesión y comenzar a utilizar las funcionalidades proporcionadas, como agregar, editar y eliminar estudiantes y maestros.
-
 ## Conclusión
 
-Este proyecto de práctica en Laravel proporciona una introducción práctica al desarrollo web utilizando este poderoso framework PHP. Al construir una aplicación básica de gestión de estudiantes y maestros, los desarrolladores pueden familiarizarse con los conceptos fundamentales de Laravel y estar preparados para abordar proyectos más complejos en el futuro.
+Este proyecto de práctica en Laravel proporciona una introducción práctica al desarrollo web utilizando este framework PHP. Al construir una aplicación sencilla de gestión de estudiantes y maestros, con las principales funcionalidades de un CRUD y haciendo uso del Sistema de Autenticacion.
 
 /* */
 
